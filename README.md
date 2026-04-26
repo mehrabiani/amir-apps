@@ -68,7 +68,7 @@ Apps are equipped with an automatic update checker that communicates with `amirm
 
 For technical inquiries or feedback, please visit:
 * **Portfolio:** [amirmehrabiani.tech](https://amirmehrabiani.tech)
-* **LinkedIn:** [Amir Mehrabiani](https://www.linkedin.com/in/amirmehrabiani/)
+* **LinkedIn:** [Amir Mehrabiani](https://www.linkedin.com/in/amir-mehrabiani/)
 
 ---
 *© 2026 Amir Mehrabiani. All rights reserved.*
