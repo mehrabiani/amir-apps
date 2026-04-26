@@ -56,14 +56,6 @@ Running local Large Language Models (LLMs) and Speech-to-Text engines (via MLX/O
 
 ---
 
-## 🛠 Installation & Updates
-
-To ensure the safety of your system, only download installers from the **[Releases]** section of this repository. 
-
-Apps are equipped with an automatic update checker that communicates with `amirmehrabiani.tech/api/check-update` to notify you of new features or critical security patches.
-
----
-
 ## 📧 Contact & Support
 
 For technical inquiries or feedback, please visit:
