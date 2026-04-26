@@ -1,6 +1,8 @@
 release-all-linux.sh
 release-all-macos.sh
 release-all-windows.bat
+upload-all.sh
+.DS_Store
 # Ignore all installers
 *.dmg
 *.exe
