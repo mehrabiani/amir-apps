@@ -1,0 +1,8 @@
+release-all-linux.sh
+release-all-macos.sh
+release-all-windows.bat
+# Ignore all installers
+*.dmg
+*.exe
+*.zip
+*.blockmap
